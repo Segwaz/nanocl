@@ -31,16 +31,10 @@ The architecture of Nanocl enables a **seamless deployment** to **production** a
 
 Nanocl will introduce the **next paradigm** for **Platform Engineers** by providing ground breaking cloud-native architectural innovations, best-in-class security, while reducing operational costs with e.g. 🦀 **Rust** based efficiency.
 
-<blockquote>
- <span>
-    Who said that K8s is more than a perfect platform for application workloads?
- </span>
-</blockquote>
-
 ## Installation
 
 We are already compatible with **Linux**, **MacOS** & **Windows**, just jump to [Installation guide][nanocl_install_guide].<br/>
-Please bare with us, Nanocl is currently more than just on the cutting edge..
+Please bear with us as Nanocl continues to evolve. We are pushing the boundaries of innovation, and welcome your feedback as we refine it further.
 
 ## Latest news
 
@@ -52,7 +46,7 @@ Please bare with us, Nanocl is currently more than just on the cutting edge..
 
 ## Usage
 
-Nanocl is designed to be **easy** to setup, use & maintain by mostly using **Statefiles** (`yaml`, `toml` or `json`).<br/>
+Nanocl is designed to be **easy** to setup, use & maintain primarily through the use of **Statefiles** (`yaml`, `toml` or `json`).<br/>
 Below is an **example** which is used to **deploy** our own [Documentation][documentation].
 
 • `Apply` a state to the cluster via `nanocl state apply -s path|url`<br/>
